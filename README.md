@@ -181,17 +181,20 @@ Practicing Data Structures & Algorithms in `Java`, `C++`, and `Python`.
 
 <div align="center">
 
-<a href="https://github.com/Ajay-Kumar-Jaiswal">
+<img src="https://github-readme-stats.vercel.app/api?username=Ajay-Kumar-Jaiswal&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Kumar-Jaiswal&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" width="40%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ajay-Kumar-Jaiswal&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400" width="48%" alt="Ajay Kumar Jaiswal GitHub Statistics"/>
+</div>
 
-</a>
+<div align="center">
 
-<a href="https://github.com/Ajay-Kumar-Jaiswal?tab=repositories">
+<img src="https://streak-stats.demolab.com?user=Ajay-Kumar-Jaiswal&theme=transparent&hide_border=true" width="65%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Kumar-Jaiswal&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400&langs_count=8" width="40%" alt="Most Used Languages"/>
+</div>
 
-</a>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay-Kumar-Jaiswal&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" />
 
 </div>
 
