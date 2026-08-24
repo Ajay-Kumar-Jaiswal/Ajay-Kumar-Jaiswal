@@ -1,757 +1,380 @@
 <div align="center">
 
-<!-- ========================================================= -->
+# Ajay Kumar Jaiswal
 
-<!--                         HERO                              -->
+### Software Developer · Data Analyst · ML Enthusiast
 
-<!-- ========================================================= -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20&text=Ajay%20Kumar%20Jaiswal&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20Software%20Development&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="Ajay Kumar Jaiswal"/>
+Building practical software, analyzing data, and exploring intelligent systems.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Data+Analytics+%7C+Machine+Learning+%7C+Software+Development;Python+%7C+Java+%7C+C%2B%2B+%7C+JavaScript+%7C+TypeScript;Turning+Raw+Data+Into+Meaningful+Insights;Building+Projects+%7C+Learning+Every+Day+%7C+Growing+Every+Day" alt="Typing Animation"/>
-
-<br><br>
-
-<!-- ========================================================= -->
-
-<!--                   PROFILE BUTTONS                         -->
-
-<!-- ========================================================= -->
-
 <a href="https://github.com/Ajay-Kumar-Jaiswal">
-<img src="https://img.shields.io/badge/GITHUB-Ajay--Kumar--Jaiswal-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="48" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-  
-
+&nbsp;
 <a href="https://www.linkedin.com/in/ajaykumarjaiswal/">
-<img src="https://img.shields.io/badge/LINKEDIN-Ajay%20Kumar%20Jaiswal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="48" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-  
-
+&nbsp;
 <a href="https://leetcode.com/u/Ajay_Kumar_Jaiswal/">
-<img src="https://img.shields.io/badge/LEETCODE-Ajay__Kumar__Jaiswal-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" height="48" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Ajay-Kumar-Jaiswal&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
-
-<img src="https://img.shields.io/github/followers/Ajay-Kumar-Jaiswal?label=FOLLOWERS&style=for-the-badge&color=06B6D4" alt="Followers"/>
-
-<img src="https://img.shields.io/github/stars/Ajay-Kumar-Jaiswal?label=STARS&style=for-the-badge&color=F59E0B" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=Ajay-Kumar-Jaiswal&label=PROFILE%20VIEWS&color=6E40C9&style=flat-square" alt="Profile Views"/>
 
 </div>
 
 ---
 
-# 👋 Hi, I'm Ajay Kumar Jaiswal
+## 👋 About Me
 
-<div align="center">
+I'm a **B.Tech Computer Science & Engineering student** interested in:
 
-### 💻 Software Developer   |   📊 Data Analyst   |   🤖 ML Enthusiast
+* 💻 Software Development
+* 📊 Data Analytics & Business Intelligence
+* 🤖 Machine Learning & Artificial Intelligence
+* 🗄️ SQL & Database Systems
+* 🧠 Data Structures & Algorithms
+* 🌐 Web Development
 
-</div>
+I enjoy transforming raw data into meaningful insights, building practical applications, solving programming problems, and continuously improving my technical skills.
 
-I'm a **B.Tech Computer Science & Engineering student** passionate about software development, data analytics, machine learning and artificial intelligence.
-
-I enjoy turning **raw data into meaningful insights**, solving programming problems, creating interactive dashboards, and building practical software projects.
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   👨‍💻 SOFTWARE DEVELOPMENT                                  │
-│   📊 DATA ANALYTICS                                          │
-│   🤖 MACHINE LEARNING                                        │
-│   🧠 ARTIFICIAL INTELLIGENCE                                 │
-│   🌐 WEB DEVELOPMENT                                         │
-│   🗄️ SQL & DATABASES                                         │
-│   📈 BUSINESS INTELLIGENCE                                   │
-│                                                              │
-│                  BUILD • LEARN • IMPROVE                     │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+> **Build. Learn. Improve.**
 
 ---
 
-# 🚀 What I Do
+## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Programming Languages
 
-| 💻 Software Development |   📊 Data Analytics   |      🤖 AI / ML     |
-| :---------------------: | :-------------------: | :-----------------: |
-|     Web Development     |     Data Cleaning     |   Machine Learning  |
-|        JavaScript       |  Exploratory Analysis | Predictive Modeling |
-|        TypeScript       |   Data Visualization  |   Model Evaluation  |
-|           Java          | Business Intelligence |    AI Exploration   |
-|           C++           | Dashboard Development |    Generative AI    |
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
 
-</div>
+### 📊 Data Analytics & Machine Learning
 
----
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+</p>
 
-# ⚡ Complete Tech Stack
+### 📈 Business Intelligence
 
-## 💻 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logo=microsoft&logoColor=white"/>
+</p>
 
-<p align="center">
+### 🗄️ Database
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 
+### 🌐 Web Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-## 🌐 Web Development
+## 🚀 Featured Projects
 
-<p align="center">
+### 📊 Retail Analytics Dashboard
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+**End-to-end Data Analytics & Business Intelligence project**
 
-</p>
+A complete retail analytics solution focused on transforming raw business data into actionable insights.
 
-### Web Skills
+**Highlights**
 
-* Responsive Web Design
-* HTML5
-* CSS3
-* Flexbox
-* CSS Grid
-* JavaScript
-* DOM Manipulation
-* Interactive Web Applications
-* TypeScript
-* UI Development
-
----
-
-# 📊 Data Analytics
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-Data%20Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
-
-</p>
-
-### 📈 Data Skills
-
-* 🧹 Data Cleaning
-* 🔄 Data Preprocessing
+* 🧹 Data cleaning & preprocessing
 * 🔍 Exploratory Data Analysis
-* 🧮 Statistical Analysis
-* 📊 Data Visualization
-* 📖 Data Storytelling
-* 📈 Trend Analysis
-* 🔗 Correlation Analysis
-* 🚨 Outlier Detection
-* 📌 Feature Analysis
-* 💡 Business Insights
-* 👥 Customer Analysis
-* 👤 RFM Analysis
-* 🎯 Predictive Analysis
-* 📑 Data Reporting
-
----
-
-# 🤖 Machine Learning & AI
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-EC4899?style=for-the-badge"/>
-
-</p>
-
-### 🧠 Machine Learning Skills
-
-* Data Preprocessing
-* Feature Engineering
-* Exploratory Data Analysis
-* Supervised Learning
-* Regression
-* Classification
-* Predictive Modeling
-* Model Evaluation
-* Statistical Modeling
-* Machine Learning Fundamentals
-
-### 🤖 AI Interests
-
-* Artificial Intelligence
-* Generative AI
-* Large Language Models
-* AI Applications
-* Intelligent Systems
-* AI Automation
-* Deep Learning
-
----
-
-# 📊 Business Intelligence & Visualization
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white"/>
-
-</p>
-
-### 📈 BI Skills
-
-* Power BI
-* Power Query
-* DAX
-* Data Modeling
-* KPI Development
-* Interactive Dashboards
-* Business Intelligence
-* Data Storytelling
-* Dashboard Design
-* Report Development
-* Interactive Visualization
-* Business Reporting
-
----
-
-# 🗄️ Database & SQL
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-</p>
-
-### 🗃️ SQL Skills
-
-* SELECT
-* WHERE
-* JOINs
-* GROUP BY
-* ORDER BY
-* Aggregate Functions
-* Subqueries
-* CASE Statements
-* Data Filtering
-* Data Extraction
-* Business Analysis
-* Customer Analysis
-* Query Optimization
-
----
-
-# 🧠 Computer Science Skills
-
-<div align="center">
-
-|     Core Skill    |    Core Skill   |      Core Skill      |
-| :---------------: | :-------------: | :------------------: |
-|  Data Structures  |    Algorithms   |          OOP         |
-|  Problem Solving  |       DBMS      |   Operating Systems  |
-| Computer Networks |  Multithreading | Software Engineering |
-|     Debugging     | Version Control |  Complexity Analysis |
-
-</div>
-
----
-
-# 🛠️ Tools & Development Environment
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🥇 Retail Analytics Dashboard
-
-> **End-to-End Data Analytics & Business Intelligence Project**
-
-A complete retail analytics project focused on transforming raw business data into meaningful insights and actionable business intelligence.
-
-### 🔥 Highlights
-
-* 🐍 Python data processing
-* 🧹 Data cleaning and preprocessing
-* 📊 Exploratory Data Analysis
 * 🗄️ SQL business analysis
 * 👥 RFM customer segmentation
 * 📈 Business performance analysis
 * 📊 Power BI dashboard
 * 💡 Data-driven business insights
 
-### 🛠️ Tech Stack
+**Tech Stack**
 
-`Python` `Pandas` `SQL` `MySQL` `Power BI` `DAX` `Data Analytics` `RFM`
-
-<div align="center">
+`Python` `Pandas` `SQL` `MySQL` `Power BI` `DAX`
 
 <a href="https://github.com/Ajay-Kumar-Jaiswal/Retail-Analytics-Dashboard">
-
-<img src="https://img.shields.io/badge/⭐%20VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/View%20Repository-21262D?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
-</div>
 
 ---
 
-## 🌾 State-Wise Crop Production Analysis
+### 🌾 State-Wise Crop Production Analysis
 
-Data analysis and machine-learning project focused on understanding crop production patterns and building predictive insights.
+Data analysis and machine learning project focused on understanding crop production patterns and developing predictive insights.
 
-### 🛠️ Tech Stack
+**Tech Stack**
 
 `Python` `Pandas` `NumPy` `Machine Learning` `Data Visualization`
 
-<div align="center">
-
 <a href="https://github.com/Ajay-Kumar-Jaiswal/state-wise-crop-production-analysis">
-
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-10B981?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/View%20Repository-21262D?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
-</div>
 
 ---
 
-## 🎬 Netflix Data Analysis Dashboard
+### 🎬 Netflix Data Analysis Dashboard
 
 Interactive dashboard for analyzing Netflix movies and TV shows.
 
-### 📊 Includes
+**Includes**
 
 * Movies vs TV Shows
-* Ratings
-* Countries
+* Ratings analysis
+* Country distribution
 * Release trends
 * Content analysis
 * Interactive charts
 
-### 🛠️ Tech Stack
+**Tech Stack**
 
-`Python` `Plotly` `Dash` `Pandas` `Data Visualization`
-
-<div align="center">
+`Python` `Pandas` `Plotly` `Dash`
 
 <a href="https://github.com/Ajay-Kumar-Jaiswal/Netflix_Data_Analysis_Dashboard">
-
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/View%20Repository-21262D?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
-</div>
 
 ---
 
-## 🛒 E-Commerce Website
+### 🛒 E-Commerce Website
 
-Responsive e-commerce website featuring product browsing and interactive shopping functionality.
+Responsive e-commerce website with interactive shopping functionality.
 
-### ✨ Features
+**Features**
 
-* 🛍️ Product browsing
-* ❤️ Wishlist
-* 🛒 Shopping cart
-* 💳 Checkout flow
-* 📱 Responsive UI
+* Product browsing
+* Wishlist
+* Shopping cart
+* Checkout flow
+* Responsive UI
 
-### 🛠️ Tech Stack
+**Tech Stack**
 
 `HTML` `CSS` `JavaScript`
 
-<div align="center">
-
 <a href="https://github.com/Ajay-Kumar-Jaiswal/E-Commerce">
-
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/View%20Repository-21262D?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
-</div>
 
 ---
 
-## 🧵 Multi-Thread Simulator
+### 🧵 Multi-Thread Simulator
 
-Project focused on understanding multithreading and concurrent execution concepts.
+Interactive project focused on understanding multithreading and concurrent execution.
 
-### 🛠️ Tech Stack
+**Tech Stack**
 
 `TypeScript` `Concurrency` `Multithreading`
 
-<div align="center">
-
 <a href="https://github.com/Ajay-Kumar-Jaiswal/Multi-Thread-Simulator">
-
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/View%20Repository-21262D?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
-</div>
 
 ---
 
-## 🌐 Personal Portfolio
+### 🌐 Personal Portfolio
 
-Personal portfolio website showcasing projects, skills and development work.
+Personal portfolio website showcasing projects, skills, and development work.
 
-### 🛠️ Tech Stack
+**Tech Stack**
 
 `HTML` `CSS` `JavaScript`
-
-<div align="center">
 
 <a href="https://github.com/Ajay-Kumar-Jaiswal/Portfolio">
-
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/View%20Repository-21262D?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
-</div>
 
 ---
 
-## 🧮 Calculator
+## 🧠 Computer Science
 
-Responsive calculator application for basic arithmetic operations.
+I'm actively developing my fundamentals in:
 
-### 🛠️ Tech Stack
-
-`HTML` `CSS` `JavaScript`
-
-<div align="center">
-
-<a href="https://github.com/Ajay-Kumar-Jaiswal/calculator">
-
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</div>
+| Area                 | Focus                               |
+| -------------------- | ----------------------------------- |
+| Data Structures      | Arrays, Linked Lists, Trees, Graphs |
+| Algorithms           | Searching, Sorting, Optimization    |
+| OOP                  | Object-Oriented Design              |
+| DBMS                 | SQL, Data Modeling                  |
+| Operating Systems    | Core OS Concepts                    |
+| Computer Networks    | Networking Fundamentals             |
+| Problem Solving      | Competitive Programming             |
+| Software Engineering | Development & Debugging             |
 
 ---
 
-## 🎮 Tic Tac Toe
+## 🔄 My Data & ML Workflow
 
-Interactive browser-based Tic Tac Toe game.
-
-### 🛠️ Tech Stack
-
-`HTML` `CSS` `JavaScript`
-
-<div align="center">
-
-<a href="https://github.com/Ajay-Kumar-Jaiswal/Tic-Tac-Toe">
-
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-EF4444?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</div>
+```text
+        ┌───────────────┐
+        │   RAW DATA    │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │ DATA CLEANING │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │     EDA       │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │ VISUALIZATION │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │  ML / ANALYTICS│
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │    INSIGHTS   │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │ DECISION MAKING│
+        └───────────────┘
+```
 
 ---
 
-# 🧩 LeetCode
+## 🧩 LeetCode
+
+I practice **Data Structures & Algorithms** using:
+
+`Java` · `C++` · `Python`
 
 <div align="center">
 
 <a href="https://leetcode.com/u/Ajay_Kumar_Jaiswal/">
-
-<img src="https://leetcard.jacoblin.cool/Ajay_Kumar_Jaiswal?theme=dark&font=Karma&ext=heatmap" width="700" alt="Ajay Kumar Jaiswal LeetCode Stats"/>
-
+<img src="https://leetcard.jacoblin.cool/Ajay_Kumar_Jaiswal?theme=dark&font=Karma&ext=heatmap" width="650" alt="LeetCode Stats"/>
 </a>
 
-<br><br>
+</div>
 
-### I practice Data Structures & Algorithms using:
+---
 
-`Java`  •  `C++`  •  `Python`
+## 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-6E40C9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Advanced%20Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Advanced%20SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative%20AI-EC4899?style=flat-square"/>
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ajay-Kumar-Jaiswal&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Kumar-Jaiswal&layout=compact&theme=transparent&hide_border=true&langs_count=8" width="40%" />
+
+</div>
 
 <br>
 
-<a href="https://leetcode.com/u/Ajay_Kumar_Jaiswal/">
+<div align="center">
 
-<img src="https://img.shields.io/badge/VIEW%20MY%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
-</a>
+<img src="https://streak-stats.demolab.com?user=Ajay-Kumar-Jaiswal&theme=transparent&hide_border=true" width="65%" />
 
 </div>
 
 ---
 
-# 🌐 My Profiles
+## 📈 Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/Ajay-Kumar-Jaiswal">
-
-<img src="https://img.shields.io/badge/GITHUB-View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="55" alt="GitHub"/>
-
-</a>
-
-   
-
-<a href="https://www.linkedin.com/in/ajaykumarjaiswal/">
-
-<img src="https://img.shields.io/badge/LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="55" alt="LinkedIn"/>
-
-</a>
-
-   
-
-<a href="https://leetcode.com/u/Ajay_Kumar_Jaiswal/">
-
-<img src="https://img.shields.io/badge/LEETCODE-View%20My%20Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" height="55" alt="LeetCode"/>
-
-</a>
-
-<br><br>
-
-|                            💻 GitHub                            |                               💼 LinkedIn                              |                              🧩 LeetCode                              |
-| :-------------------------------------------------------------: | :--------------------------------------------------------------------: | :-------------------------------------------------------------------: |
-| [**View My Projects →**](https://github.com/Ajay-Kumar-Jaiswal) | [**Connect With Me →**](https://www.linkedin.com/in/ajaykumarjaiswal/) | [**View My Solutions →**](https://leetcode.com/u/Ajay_Kumar_Jaiswal/) |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay-Kumar-Jaiswal&theme=github-compact&hide_border=true&area=true" width="95%" />
 
 </div>
 
 ---
 
-# 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8B5CF6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Advanced%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Advanced%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-06B6D4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-EC4899?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
+## 🎯 2026 Focus
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  ████████████████████░░░░  Master Data Structures & Algo     │
-│  ██████████████████░░░░░░  Improve Problem Solving            │
-│  █████████████████░░░░░░░  Advance Machine Learning           │
-│  ████████████████░░░░░░░░  Explore Generative AI               │
-│  ███████████████░░░░░░░░░  Build Production Projects           │
-│  ██████████████░░░░░░░░░░  Contribute to Open Source           │
-│  █████████████░░░░░░░░░░░  Become Industry Ready               │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+▸ Strengthen Data Structures & Algorithms
+▸ Improve Advanced Python & SQL
+▸ Build production-ready projects
+▸ Advance Machine Learning knowledge
+▸ Explore Generative AI
+▸ Contribute to Open Source
+▸ Become industry ready
 ```
 
 ---
 
-# 📈 GitHub Analytics
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ajay-Kumar-Jaiswal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Kumar-Jaiswal&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="41%" alt="Top Languages"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ajay-Kumar-Jaiswal&theme=tokyonight&hide_border=true&border_radius=10" width="70%" alt="GitHub Streak"/>
-
-</div>
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay-Kumar-Jaiswal&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ajay-Kumar-Jaiswal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ajay-Kumar-Jaiswal/Ajay-Kumar-Jaiswal/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake"/>
-
-</div>
-
----
-
-# 🧪 My Data & AI Workflow
-
-<div align="center">
-
-```text
-             ┌─────────────────────┐
-             │      RAW DATA       │
-             └──────────┬──────────┘
-                        ↓
-             ┌─────────────────────┐
-             │   DATA CLEANING     │
-             └──────────┬──────────┘
-                        ↓
-             ┌─────────────────────┐
-             │       EDA           │
-             └──────────┬──────────┘
-                        ↓
-             ┌─────────────────────┐
-             │   VISUALIZATION     │
-             └──────────┬──────────┘
-                        ↓
-             ┌─────────────────────┐
-             │   ML / ANALYTICS    │
-             └──────────┬──────────┘
-                        ↓
-             ┌─────────────────────┐
-             │     INSIGHTS        │
-             └──────────┬──────────┘
-                        ↓
-             ┌─────────────────────┐
-             │   DECISION MAKING   │
-             └─────────────────────┘
-```
-
-</div>
-
----
-
-# 🧠 Developer Mindset
-
-<div align="center">
-
-```text
-       ┌───────────────┐
-       │    PROBLEM    │
-       └───────┬───────┘
-               │
-               ▼
-       ┌───────────────┐
-       │    ANALYZE    │
-       └───────┬───────┘
-               │
-               ▼
-       ┌───────────────┐
-       │      CODE     │
-       └───────┬───────┘
-               │
-               ▼
-       ┌───────────────┐
-       │      TEST     │
-       └───────┬───────┘
-               │
-               ▼
-       ┌───────────────┐
-       │     BUILD     │
-       └───────┬───────┘
-               │
-               ▼
-       ┌───────────────┐
-       │    IMPROVE    │
-       └───────────────┘
-```
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-### 💻 GitHub
-
-<a href="https://github.com/Ajay-Kumar-Jaiswal">
-
-<img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<br><br>
-
-### 💼 LinkedIn
-
-<a href="https://www.linkedin.com/in/ajaykumarjaiswal/">
-
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<br><br>
-
-### 🧩 LeetCode
-
-<a href="https://leetcode.com/u/Ajay_Kumar_Jaiswal/">
-
-<img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
-</a>
-
-<br><br>
-
-### 🚀 Open to learning, collaboration & exciting opportunities!
+I'm always interested in **learning, building, collaborating, and solving interesting problems.**
 
 <br>
 
-**💜 Code • Learn • Build • Innovate**
+<a href="https://github.com/Ajay-Kumar-Jaiswal">
+<img src="https://img.shields.io/badge/GitHub-View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/in/ajaykumarjaiswal/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://leetcode.com/u/Ajay_Kumar_Jaiswal/">
+<img src="https://img.shields.io/badge/LeetCode-View%20My%20Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br><br>
+
+**Thanks for visiting my profile!**
+
+⭐ Feel free to explore my repositories.
 
 </div>
 
@@ -759,6 +382,6 @@ Interactive browser-based Tic Tac Toe game.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20" width="100%" alt="Footer"/>
+### Build · Learn · Improve
 
 </div>
