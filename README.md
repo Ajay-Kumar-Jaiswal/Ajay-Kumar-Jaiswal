@@ -155,7 +155,7 @@ Personal portfolio website showcasing projects, skills, and development work.
 Raw Data → Data Cleaning → EDA → Visualization → ML / Analytics → Insights → Decision Making
 ```
 
-<br>
+<!-- <br>
 
 ## LeetCode
 
@@ -167,7 +167,7 @@ Practicing Data Structures & Algorithms in `Java`, `C++`, and `Python`.
 <img src="https://leetcard.jacoblin.cool/Ajay_Kumar_Jaiswal?theme=dark&font=Karma&ext=heatmap" width="650" alt="LeetCode Stats"/>
 </a>
 
-</div>
+</div> -->
 
 <br>
 
